@@ -16,7 +16,6 @@ global.packname = namabot
 global.author = namaowner
 global.myweb = "https://s.id/zeeoneofc"
 global.footer_text = "© " + namabot
-global.pp_bot = fs.readFileSync("./image/foto.jpg")
 global.qris = fs.readFileSync("./image/qris.jpg")
 global.owner = ['6282268881337']
 global.pairingNumber = "" //pairing number to install bot 
